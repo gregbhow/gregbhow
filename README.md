@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Greg !
-- 👀 I’m interested in Cybersecurity and AI 
-- 📫 gregbhowany@gmail.com is my e-mail address
+- 👀 I’m interested in Cybersecurity and AI
 
 <!---
 gregbhow/gregbhow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
